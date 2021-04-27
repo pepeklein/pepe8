@@ -6,7 +6,7 @@
 
 preco_cm1 = 0.0025
 preco_cm2 = 0.00068
-mdo1 = 3.70
+mdo1 = 3.75
 mdo2 = 5.50
 
 
@@ -42,4 +42,3 @@ while True:
         print('Valor inexistente.')
 
 print('Obrigado por utilizar nosso programa')
-
