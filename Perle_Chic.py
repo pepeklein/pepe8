@@ -111,5 +111,8 @@ while True:
             break
         else:
             print('Opção inválida. Digite novamente.')
+    # ERRO
+    else:
+        print('Opção inválida. Digite novamente.')
 
 print('Obrigado por utilizar nosso programa')
