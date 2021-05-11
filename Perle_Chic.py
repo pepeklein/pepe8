@@ -1,7 +1,7 @@
 # Project: Perle Chic
 # The project is a production and sales price calculator,
 # developed for an entrepreneur who owns a beads accessory store.
-# Status: In progress
+# Status: In progress (Beta Version)
 
 
 preco_cm1 = 0.0025
